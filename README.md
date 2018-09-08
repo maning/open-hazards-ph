@@ -30,4 +30,4 @@ Yes! Please [open a ticket](../../issues/new) and let's discuss.
 ## Who maintains this repo?
 
 * Maning Sambale **[@maning](https://github.com/maning)**
-* Romer Aranas **[@rukku](https://github.com/rukku)**
+* RK Aranas **[@rukku](https://github.com/rukku)**
