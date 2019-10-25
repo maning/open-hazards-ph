@@ -9,7 +9,11 @@ We respect the license of the original source, each data source have a correspon
 
 ## How do I access the data?
 
-Data are hosted in AWS S3, the public access are available at: `https://s3.amazonaws.com/open-hazards-ph/`.
+Data are hosted in AWS S3, the public access are available at: 
+
+* `https://s3.amazonaws.com/open-hazards-ph/<link/to/specific/file>` or,
+* `https://open-hazards-ph.s3.amazonaws.com/<link/to/specific/file>`.
+
 For example, to download landslide vector for Abra, go to: 
 `https://s3.amazonaws.com/open-hazards-ph/noah/LANDSLIDE/vector/Abra_LandslideHazards.shp.geojson.zip`
 
