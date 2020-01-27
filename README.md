@@ -22,6 +22,8 @@ For example, to download landslide vector for Abra, go to:
 None at the moment, this might change, patches welcome!
 But you can programatically access the data in some form, check the [examples](/examples) directory.
 
+Or use the [open-hazards-ph-qgis plugin](https://github.com/benhur07b/open-hazards-ph-qgis) by **[Ben Hur Pintor](@benhur07b)**.
+
 ## Most data archived here are available in other government websites, why do this?
 
 Philippine government data policy changes from the tenure of an administration to another, we want to ensure
